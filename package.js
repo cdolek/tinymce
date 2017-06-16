@@ -64,6 +64,27 @@ Package.onUse(function(api) {
     ], 'client');
 
     api.addAssets([
+        //plugins
+        'plugins/codesample/css/prism.css',
+        'plugins/visualblocks/css/visualblocks.css',
+        'plugins/emoticons/img/smiley-cool.gif',
+        'plugins/emoticons/img/smiley-cry.gif',
+        'plugins/emoticons/img/smiley-embarassed.gif',
+        'plugins/emoticons/img/smiley-foot-in-mouth.gif',
+        'plugins/emoticons/img/smiley-frown.gif',
+        'plugins/emoticons/img/smiley-innocent.gif',
+        'plugins/emoticons/img/smiley-kiss.gif',
+        'plugins/emoticons/img/smiley-laughing.gif',
+        'plugins/emoticons/img/smiley-money-mouth.gif',
+        'plugins/emoticons/img/smiley-sealed.gif',
+        'plugins/emoticons/img/smiley-smile.gif',
+        'plugins/emoticons/img/smiley-surprised.gif',
+        'plugins/emoticons/img/smiley-tongue-out.gif',
+        'plugins/emoticons/img/smiley-undecided.gif',
+        'plugins/emoticons/img/smiley-wink.gif',
+        'plugins/emoticons/img/smiley-yell.gif',
+
+
         // skins
         'skins/lightgray/content.inline.min.css',
         'skins/lightgray/content.min.css', // modified
